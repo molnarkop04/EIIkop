@@ -6,3 +6,6 @@ print(f(0, 0, 1))
 print(f(0, 1, 1))
 print(f(1, 1, 0))
 print(f(1, 1, 1))
+
+
+sdonsnvpiojcxpovjpoxküpvsdcv
